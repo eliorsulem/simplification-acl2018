@@ -18,6 +18,6 @@ The source and reference sentences as well as the outputs for SBMT-SARI (Xu et a
 https://github.com/cocoxu/simplification.
 The outputs for HYBRID (Narayan and Gardent, 2014) can be found at https://github.com/XingxingZhang/dress.
 
-**License
+**License**
 
 [Attribution-ShareAlike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/)
