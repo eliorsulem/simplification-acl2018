@@ -1,5 +1,5 @@
 # simplification-acl2018
-Human Evaluation Benchmark for Text Simplification and system outputs from the paper:
+Human Evaluation Benchmark for Text Simplification and System Outputs from the paper:
 
     Simple and Effective Text Simplification using Semantic and Neural Models
     Elior Sulem, Omri Abend and Ari Rappoport
