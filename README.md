@@ -1,5 +1,5 @@
 # simplification-acl2018
-Human Evaluation Benchmark for Text Simplification from the paper:
+Human Evaluation Benchmark for Text Simplification and system outputs from the paper:
 
     Simple and Effective Text Simplification using Semantic and Neural Models
     Elior Sulem, Omri Abend and Ari Rappoport
@@ -17,6 +17,10 @@ Outputs of the systems for the 70 sentences manually evaluated.
 The source and reference sentences as well as the outputs for SBMT-SARI (Xu et al., 2016) can be found at
 https://github.com/cocoxu/simplification.
 The outputs for HYBRID (Narayan and Gardent, 2014) can be found at https://github.com/XingxingZhang/dress.
+
+**./WEB-SPLIT_experiment_outputs**
+
+Output of our DSS system on the test set of the WEB-SPLIT corpus, Version 0.1 (Narayan et al., 2017).
 
 **License**
 
