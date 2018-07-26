@@ -5,7 +5,7 @@ Human Evaluation Benchmark for Text Simplification and system outputs from the p
     Elior Sulem, Omri Abend and Ari Rappoport
     Proc. of ACL 2018
 
-***Human Evaluation Benchmark and Corresponding System Outputs***
+***1. Human Evaluation Benchmark and Corresponding System Outputs***
 
 **./human_evaluation_benchmark_acl2018.ods**
 
@@ -20,7 +20,7 @@ The source and reference sentences as well as the outputs for SBMT-SARI (Xu et a
 https://github.com/cocoxu/simplification.
 The outputs for HYBRID (Narayan and Gardent, 2014) can be found at https://github.com/XingxingZhang/dress.
 
-***Additional System Outputs***
+***2. Additional System Outputs***
 
 **./WEB-SPLIT_experiment_outputs**
 
