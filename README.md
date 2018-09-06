@@ -14,7 +14,7 @@ Each annotator scored the same 1600 (input,output) pairs.
 
 **./Evaluation_system_outputs**
 
-Outputs of the systems for the 70 sentences manually evaluated.
+Outputs of the systems for the 70 sentences manually evaluated. These are the first 70 sentences of the test corpus of Xu et al., 2016.
 Uniform tokenization and truecasing styles for all systems are obtained using the Moses toolkit (Koehn et al., 2007).
 
 The source and reference sentences as well as the outputs for SBMT-SARI (Xu et al., 2016) can be found at
@@ -22,6 +22,15 @@ https://github.com/cocoxu/simplification.
 The outputs for HYBRID (Narayan and Gardent, 2014) can be found at https://github.com/XingxingZhang/dress.
 
 ***2. Additional System Outputs***
+
+**./All_system_outputs**
+
+Outputs of the systems for the whole test corpus of Xu et al., 2016.
+Uniform tokenization and truecasing styles for all systems are obtained using the Moses toolkit (Koehn et al., 2007).
+
+The source and reference sentences as well as the outputs for SBMT-SARI (Xu et al., 2016) can be found at
+https://github.com/cocoxu/simplification.
+The outputs for HYBRID (Narayan and Gardent, 2014) can be found at https://github.com/XingxingZhang/dress.
 
 **./WEB-SPLIT_experiment_outputs**
 
